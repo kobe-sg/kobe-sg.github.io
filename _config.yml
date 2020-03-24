@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "kobe.sg tech"
+title                    : "kobe.sg Tech"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kobe.sg"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "kobe.sg"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "개발세발"
+  avatar           : "/assets/images/bio-photo.png"
+  bio              : ""
   location         : "Republic Of Korea"
   email            :
   links:
